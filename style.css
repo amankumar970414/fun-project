@@ -1,0 +1,139 @@
+.hero{
+   font-style: normal;
+     
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.about{
+ background-color: bule;
+
+}
+
+.about1{
+    
+ 
+    width   : 33.3%;
+   float: left;
+   font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+
+.about2{
+ 
+    width: 33.3%;
+    float: right;
+    font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.about3{
+ 
+    width: 33.3%;
+    float: inline-end;
+    font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+.head{
+    
+    text-transform: capitalize;
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ 
+  
+
+}
+
+p:hover{
+
+  color: blueviolet;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #9437ac;  
+  color: white;
+}
+.fa-github{
+  background-color: yellowgreen;
+  color: white;
+}
+ 
+.social{
+background-position: 100px;
+background-size: 100px;
+float: right;
+
+}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+ 
+ 
+.ht1{
+  float: left;
+  padding-top: 100px;
+  background-position: fixed;
+
+}
+
+.ht2{float:right;
+  text-transform: capitalize;
+  
+ 
+
+}
+.ht2:hover{
+  color: firebrick;
+}
